@@ -9,4 +9,6 @@ On the one hand it supports user flows which require users to go through several
 
 Additionally, this way of structuring your code also allows you to communicate more effectively with the various types of members of a scrum-team, including the less technical members (because of the visual advantages of using storyboards), while at the same time preventing merge conflicts in Git when team members work on different features simultaneously.
 
+This project is based on [Protocol Oriented Coordinators by Niels van Hoorn](https://github.com/nvh/Coordinating-presentation).
+
 ---
